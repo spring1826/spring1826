@@ -1,4 +1,6 @@
-### Hi there 👋
+![스크린샷 2020-09-27 오후 1 20 33](https://user-images.githubusercontent.com/59153077/94355995-67ccd800-00c4-11eb-8118-c71b21575b9a.png)
+
+## Welcome to My GitHub 🤩
 
 <!--
 **spring1826/spring1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
