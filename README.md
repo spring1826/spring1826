@@ -2,6 +2,10 @@
 
 ## Welcome to My GitHub 🤩
 
+> 📒 Blog : https://velog.io/@denmark-choco
+
+> 📬 E-mail : dongwon1826@gmail.com
+
 <!--
 **spring1826/spring1826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
